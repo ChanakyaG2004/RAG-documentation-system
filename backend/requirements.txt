@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+rank_bm25
+sentence-transformers
+faiss-cpu
+torch
